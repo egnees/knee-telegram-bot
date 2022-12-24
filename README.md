@@ -1,4 +1,4 @@
-## Knee Telegram Bot ##
+# Knee Telegram Bot #
 
 # Описание #
 Телеграм-бот *Knee Telegram Bot*, который поддерживает пять команд:
