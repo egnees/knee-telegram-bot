@@ -6,3 +6,8 @@ services:
       context: ./kneebot
     env_file:
       - ./kneebot/knee_bot_token.py
+
+networks:
+  default:
+    name: bridge-nerwork
+    external: true
